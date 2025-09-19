@@ -11,7 +11,7 @@ product = getal2 * getal4;
 Console.WriteLine($"optelling: {som} ");
 Console.WriteLine($"vermenigvuldiging: {product}");
 
-Console.WriteLine("enter om af te sluitenn");
+Console.WriteLine("enter om af te sluitn");
 Console.ReadLine();
 
 // aan
